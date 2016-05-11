@@ -1,4 +1,5 @@
 #include <iostream>
+/* A simple command line calculator */
 
 int multiply(int x, int y) { return x * y; }
 
